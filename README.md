@@ -1,10 +1,10 @@
-# Technical Certifications
+# Technical Certifications & Training
 
-A curated collection of technical certifications and engineering training completed alongside my aerospace engineering coursework.
+A curated collection of technical certifications, engineering courses, and workshop training completed alongside my aerospace engineering education.
 
 ---
 
-## Certifications Portfolio
+## Certifications
 
 ### 1. Siemens NX Mastery: Advanced Design & Applications
 *   **Issuer:** Siemens & Joun Technologies
@@ -14,7 +14,7 @@ A curated collection of technical certifications and engineering training comple
 *   **Technical Focus:**
     *   Advanced CAD modeling and design methodologies in Siemens NX.
     *   Complex part design and advanced application tools.
-*   **Certificate Link:** [View Certificate PDF (siemens-nx-mastery/certificate.pdf)](siemens-nx-mastery/certificate.pdf)
+*   **Certificate Link:** [View Certificate PDF (certifications/siemens-nx-mastery/certificate.pdf)](certifications/siemens-nx-mastery/certificate.pdf)
 
 ---
 
@@ -26,7 +26,7 @@ A curated collection of technical certifications and engineering training comple
 *   **Technical Focus:**
     *   Fundamental CAD part modeling and engineering essentials in Siemens NX.
     *   Parametric design, feature creation, and model constraints.
-*   **Certificate Link:** [View Certificate PDF (siemens-nx-engineering-essentials/certificate.pdf)](siemens-nx-engineering-essentials/certificate.pdf)
+*   **Certificate Link:** [View Certificate PDF (certifications/siemens-nx-engineering-essentials/certificate.pdf)](certifications/siemens-nx-engineering-essentials/certificate.pdf)
 
 ---
 
@@ -39,9 +39,21 @@ A curated collection of technical certifications and engineering training comple
 *   **Technical Focus:**
     *   Computational Fluid Dynamics (CFD) simulation setup and execution in ANSYS Fluent.
     *   Meshing, solver setup, boundary condition configuration, and flow post-processing.
-*   **Certificate Link:** [View Certificate PDF (simulation-using-ansys/certificate.pdf)](simulation-using-ansys/certificate.pdf)
+*   **Certificate Link:** [View Certificate PDF (certifications/simulation-using-ansys/certificate.pdf)](certifications/simulation-using-ansys/certificate.pdf)
+
+---
+
+## Workshops & Technical Training
+
+### 1. 2-Day Workshop on AI and UAV Simulation using MATLAB & Simulink
+*   **Organizer:** MathWorks
+*   **Date:** September 5–6, 2025
+*   **Venue:** Aerospace Engineering Department, IIT Kanpur, Uttar Pradesh
+*   **Technical Focus:**
+    *   AI and UAV simulation concepts using MATLAB & Simulink.
+*   **Certificate Link:** [View Attendance Certificate Image (workshops/ai-uav-simulation-matlab-simulink/certificate.jpg)](workshops/ai-uav-simulation-matlab-simulink/certificate.jpg)
 
 ---
 
 ## Verification
-All certificates are archived in this repository in PDF format. Recruiters and hiring managers can verify the credentials directly by using the verification links listed above or by downloading the respective PDF files.
+All certificates are archived in this repository in PDF or image format. Recruiters and hiring managers can verify the credentials directly by using the verification links listed above or by downloading the respective certificate files.
