@@ -45,7 +45,7 @@ A curated collection of technical certifications, engineering courses, and works
 
 ## Workshops & Technical Training
 
-### 1. 2-Day Workshop on AI and UAV Simulation using MATLAB & Simulink
+### 2-Day Workshop on AI and UAV Simulation using MATLAB & Simulink
 *   **Organizer:** MathWorks
 *   **Date:** September 5–6, 2025
 *   **Venue:** Aerospace Engineering Department, IIT Kanpur, Uttar Pradesh
