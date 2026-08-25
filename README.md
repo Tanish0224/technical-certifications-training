@@ -51,7 +51,7 @@ A curated collection of technical certifications, engineering courses, and works
 *   **Venue:** Aerospace Engineering Department, IIT Kanpur, Uttar Pradesh
 *   **Technical Focus:**
     *   AI and UAV simulation concepts using MATLAB & Simulink.
-*   **Certificate Link:** [View Attendance Certificate Image (workshops/ai-uav-simulation-matlab-simulink/certificate.jpg)](workshops/ai-uav-simulation-matlab-simulink/certificate.jpg)
+*   **Certificate Link:** [View Certificate (workshops/ai-uav-simulation-matlab-simulink/certificate.jpg)](workshops/ai-uav-simulation-matlab-simulink/certificate.jpg)
 
 ---
 
